@@ -74,6 +74,20 @@ A passionate developer who builds real-world solutions for real-world problems. 
 - ⚙️ Used **Docker** for containerized environments
 - 🧪 Created and documented APIs using **Swagger**
 
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-dalab&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-dalab&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dalab&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
 ---
 
 ## 🌐 Connect with me
