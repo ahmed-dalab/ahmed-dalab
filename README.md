@@ -1,78 +1,238 @@
-# Hi there 👋, I'm [Ahmed Dalab](https://github.com/ahmed-dalab)
+# 👋 Hey! I'm [Ahmed Dalab](https://github.com/ahmed-dalab)
 
 <!--
 **ahmed-dalab/ahmed-dalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p align="center">
-  <img src="https://github.com/ahmed-dalab.png" alt="Profile Image" width="150" height="150" style="border-radius: 50%;">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-dalab-490962249">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:me@ahmed-dalab.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+  <img src="https://github.com/ahmed-dalab.png" alt="Profile Image" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ff88; box-shadow: 0 0 20px rgba(0, 255, 136, 0.5);">
+  
+  <h3>🚀 Full-Stack Web & Mobile Developer</h3>
+  <p>🎓 Final Year Student | 🧠 Data Science & ML Enthusiast</p>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/ahmed-dalab-490962249">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/your-twitter-handle">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="mailto:me@ahmed-dalab.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
+</div>
 
 ---
 
-### 🚀 Full-Stack Web & Mobile Developer | Open Source Enthusiast
+## � About Me
 
-A passionate developer who builds real-world solutions for real-world problems. I work across both **web and mobile platforms**, constantly learning and integrating new technologies to deliver performant, scalable, and user-focused applications.
+<div align="center">
+  <p>
+    <strong>A passionate developer who builds real-world solutions for real-world problems.</strong><br>
+    I work across both <strong>web and mobile platforms</strong>, constantly learning and integrating new technologies to deliver performant, scalable, and user-focused applications.
+  </p>
+</div>
 
 - 🔭 Currently working on **full-stack applications** and **mobile solutions**
 - 🌱 Always learning **new frameworks** and **best practices**
 - 💡 Open to **collaborations** and **interesting projects**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **me@ahmed-dalab.com**
+- 🎓 **Final Year Student** at Jamhuriya University
+
+---
+
+## 🎓 Education
+
+<div align="center">
+  <table>
+    <tr>
+      <th>🎓 Institution</th>
+      <th>📚 Field</th>
+      <th>📅 Period</th>
+      <th>🏆 Status</th>
+    </tr>
+    <tr>
+      <td><strong>Jamhuriya University of Science & Technology</strong><br><em>Mogadishu, Somalia</em></td>
+      <td>Computer Science & Information Technology</td>
+      <td>2020 - Present</td>
+      <td><span style="color: #00ff88;">Final Year Student</span></td>
+    </tr>
+    <tr>
+      <td><strong>Fasttruck Technology Academy</strong><br><em>Professional Training</em></td>
+      <td>Frontend Development</td>
+      <td>2022</td>
+      <td><span style="color: #00ff88;">Certified</span></td>
+    </tr>
+    <tr>
+      <td><strong>Shire Jaamac Ahmed Secondary School</strong><br><em>Abudwak, Somalia</em></td>
+      <td>Secondary Education</td>
+      <td>2015 - 2019</td>
+      <td><span style="color: #00ff88;">Graduated</span></td>
+    </tr>
+  </table>
+</div>
+
+<details>
+<summary>📖 About Jamhuriya University</summary>
+
+Jamhuriya University of Science and Technology (JUST) is a private institution established in 2011 in Mogadishu, Somalia, by a group of Somali scholars and intellectuals. It aims to fill the existing vacuum in the higher education system by providing education of international standards. The university has 4800+ students, 2800+ graduates, and offers 35+ programs across 5+ faculties.
+
+</details>
+
+---
+
+## 💼 Work Experience
+
+<div align="center">
+  <table>
+    <tr>
+      <th>🏢 Company</th>
+      <th>💼 Role</th>
+      <th>📅 Period</th>
+      <th>🔧 Technologies</th>
+    </tr>
+    <tr>
+      <td><strong>Luulsolutions</strong><br><em>Technology Company</em></td>
+      <td>Full-Stack Developer</td>
+      <td>Nov 2024 - Present</td>
+      <td>React, Node.js, MongoDB, Docker</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🛠 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs,nodejs,express,spring,nestjs,mongodb,mysql,postgres,git,firebase,docker,github" alt="Tech Stack" />
-</p>
+<div align="center">
+  <h3>💻 Frontend Development</h3>
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 5px;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 5px;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin: 5px;">
+    </a>
+    <a href="https://react.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" style="margin: 5px;">
+    </a>
+    <a href="https://redux.js.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="margin: 5px;">
+    </a>
+    <a href="https://tailwindcss.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" style="margin: 5px;">
+    </a>
+    <a href="https://nextjs.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="margin: 5px;">
+    </a>
+    <a href="https://reactnative.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react" alt="React Native" style="margin: 5px;">
+    </a>
+    <a href="https://webpack.js.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" style="margin: 5px;">
+    </a>
+    <a href="https://vitejs.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vite" alt="Vite" style="margin: 5px;">
+    </a>
+  </p>
+</div>
 
-### 💻 Frontend Development
-- **Languages**: HTML5, CSS3, JavaScript/TypeScript
-- **Frameworks**: React.js, Redux, Next.js, TailwindCSS
-- **Mobile**: React Native
-- **Tools**: Webpack, Vite, ESLint, Prettier
+<div align="center">
+  <h3>🧠 Backend Development</h3>
+  <p>
+    <a href="https://nodejs.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 5px;">
+    </a>
+    <a href="https://expressjs.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express.js" style="margin: 5px;">
+    </a>
+    <a href="https://spring.io" target="_blank">
+      <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" style="margin: 5px;">
+    </a>
+    <a href="https://nestjs.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" style="margin: 5px;">
+    </a>
+  </p>
+</div>
 
-### 🧠 Backend Development
-- **Runtimes**: Node.js, Java
-- **Frameworks**: Express.js, Spring Boot, NestJS (Learning)
-- **API Design**: RESTful APIs, GraphQL (Basics)
+<div align="center">
+  <h3>🗃️ Databases & Data</h3>
+  <p>
+    <a href="https://www.mongodb.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="margin: 5px;">
+    </a>
+    <a href="https://www.mysql.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="margin: 5px;">
+    </a>
+    <a href="https://www.postgresql.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="margin: 5px;">
+    </a>
+    <a href="https://sequelize.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=sequelize" alt="Sequelize" style="margin: 5px;">
+    </a>
+  </p>
+</div>
 
-### 🗃️ Databases & ORM
-- **SQL**: MySQL, PostgreSQL
-- **NoSQL**: MongoDB
-- **ORMs**: Sequelize, TypeORM, Hibernate
-
-### 🧪 DevOps & Tools
-- **Version Control**: Git, GitHub, GitLab
-- **Cloud**: Firebase, AWS (Learning)
-- **Containerization**: Docker, Docker Compose
-- **Testing**: Jest, Mocha, Cypress
-- **Integration**: Twilio, Stripe APIs
-- **Documentation**: Swagger/OpenAPI, Postman
+<div align="center">
+  <h3>🧪 DevOps & Tools</h3>
+  <p>
+    <a href="https://git-scm.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" style="margin: 5px;">
+    </a>
+    <a href="https://github.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 5px;">
+    </a>
+    <a href="https://firebase.google.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="margin: 5px;">
+    </a>
+    <a href="https://www.docker.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="margin: 5px;">
+    </a>
+  </p>
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🧠 Currently Learning
 
-- **Advanced TypeScript** patterns and generics
-- **AWS Cloud Services** (EC2, S3, Lambda)
-- **Kubernetes** for container orchestration
-- **GraphQL** for API development
-- **Web3** and blockchain basics
-- **Microservices** architecture patterns
+<div align="center">
+  <h3>📊 Data Science & Machine Learning</h3>
+  
+  <table>
+    <tr>
+      <td>🤖 <strong>Machine Learning</strong></td>
+      <td>TensorFlow, PyTorch, Scikit-learn</td>
+    </tr>
+    <tr>
+      <td>📈 <strong>Data Analysis</strong></td>
+      <td>Pandas, NumPy, Matplotlib</td>
+    </tr>
+    <tr>
+      <td>🧬 <strong>Deep Learning</strong></td>
+      <td>Neural Networks, CNNs, RNNs</td>
+    </tr>
+    <tr>
+      <td>🔬 <strong>Data Science</strong></td>
+      <td>Statistical Analysis, Data Visualization</td>
+    </tr>
+  </table>
+  
+  <p>
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 5px;">
+    </a>
+    <a href="https://jupyter.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" style="margin: 5px;">
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="margin: 5px;">
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -90,15 +250,51 @@ A passionate developer who builds real-world solutions for real-world problems. 
 
 ## 📚 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,sql,csharp" alt="Programming Languages" />
-</p>
-
-- **JavaScript / TypeScript** (Expert)
-- **Java** (Spring Boot & DSA)
-- **Python** (Automation & Data Analysis)
-- **SQL** (Database Queries)
-- **C#** (.NET Basics)
+<div align="center">
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 5px;">
+    </a>
+    <a href="https://www.typescriptlang.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" style="margin: 5px;">
+    </a>
+    <a href="https://www.java.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin: 5px;">
+    </a>
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 5px;">
+    </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=sql" alt="SQL" style="margin: 5px;">
+    </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=csharp" alt="C#" style="margin: 5px;">
+    </a>
+  </p>
+  
+  <table>
+    <tr>
+      <td><strong>JavaScript / TypeScript</strong></td>
+      <td>Expert</td>
+    </tr>
+    <tr>
+      <td><strong>Java</strong></td>
+      <td>Spring Boot & DSA</td>
+    </tr>
+    <tr>
+      <td><strong>Python</strong></td>
+      <td>Data Science & ML</td>
+    </tr>
+    <tr>
+      <td><strong>SQL</strong></td>
+      <td>Database Queries</td>
+    </tr>
+    <tr>
+      <td><strong>C#</strong></td>
+      <td>.NET Basics</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -160,11 +356,18 @@ I'm always interested in hearing about new projects and opportunities. Whether y
 - 📚 When I'm not coding, you'll find me reading tech blogs or exploring new frameworks
 - 🎮 I believe in the power of **open source** and contributing to the community
 - ☕ Coffee enthusiast who believes the best code is written with a good cup of coffee
+- 🧠 Currently diving deep into **Data Science** and **Machine Learning**
+- 🎓 Balancing university studies with real-world development experience
 
 ---
 
-### 🙏 Thanks for visiting!
-
-**Remember to star ⭐ this repo if you found it helpful!**
+<div align="center">
+  <h3>🙏 Thanks for visiting!</h3>
+  <p><strong>Remember to star ⭐ this repo if you found it helpful!</strong></p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ahmed-dalab&style=for-the-badge&color=00ff88" alt="Profile Views">
+  </p>
+</div>
 
 <!-- Want to go further? Add pinned repos, project cards, or custom animations to make your README even more interactive. -->
