@@ -8,7 +8,7 @@
   <img src="https://github.com/ahmed-dalab.png" alt="Profile Image" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ff88; box-shadow: 0 0 20px rgba(0, 255, 136, 0.5);">
   
   <h3>🚀 Full-Stack Web & Mobile Developer</h3>
-  <p>🎓 Final Year Student | 🧠 Data Science & ML Enthusiast</p>
+  <p>🎓 Final Year Student | 🧠 Software Developer</p>
   
   <div>
     <a href="https://www.linkedin.com/in/ahmed-dalab-490962249">
