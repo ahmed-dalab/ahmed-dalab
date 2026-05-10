@@ -55,7 +55,7 @@
     <tr>
       <td><strong>Jamhuriya University of Science & Technology</strong><br><em>Mogadishu, Somalia</em></td>
       <td>Computer Science & Information Technology</td>
-      <td>2020 - Present</td>
+      <td>2022 - Present</td>
       <td><span style="color: #00ff88;">Final Year Student</span></td>
     </tr>
     <tr>
@@ -65,9 +65,15 @@
       <td><span style="color: #00ff88;">Certified</span></td>
     </tr>
     <tr>
-      <td><strong>Shire Jaamac Ahmed Secondary School</strong><br><em>Abudwak, Somalia</em></td>
-      <td>Secondary Education</td>
-      <td>2015 - 2019</td>
+      <td><strong>Shire Jaamac Ahmed Primary & Secondary School</strong><br><em>Abudwak, Somalia</em></td>
+      <td>Primary & Secondary Education</td>
+      <td>2015 - 2021</td>
+      <td><span style="color: #00ff88;">Graduated</span></td>
+    </tr>
+       <tr>
+      <td><strong>Howlwadadaag  Primary School</strong><br><em>Abudwak, Somalia</em></td>
+      <td>Primary Education</td>
+      <td>2011 - 2013</td>
       <td><span style="color: #00ff88;">Graduated</span></td>
     </tr>
   </table>
