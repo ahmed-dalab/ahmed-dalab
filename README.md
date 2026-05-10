@@ -74,7 +74,7 @@
       <td><strong>Howlwadadaag  Primary School</strong><br><em>Abudwak, Somalia</em></td>
       <td>Primary Education</td>
       <td>2011 - 2013</td>
-      <td><span style="color: #00ff88;">Graduated</span></td>
+      <td><span style="color: #00ff88;">Left</span></td>
     </tr>
   </table>
 </div>
